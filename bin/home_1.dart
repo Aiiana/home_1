@@ -3,8 +3,7 @@ List a=[1,7,12,3,56,2,87,34,54];
 print(a.first);
 print(a[5]);
 print(a.last);
-//2 Вариант
-print("Задача 1\n${a.first} ${a[4]} ${a.last}");
+
 
 
 List b=[3,12,43,1,25,6,5,7];
